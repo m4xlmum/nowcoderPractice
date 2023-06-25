@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c60183b0-6d77-484f-9e7c-4b4e895537b5" name="变更" comment="1">
-      <change afterPath="$PROJECT_DIR$/HJ3.java" afterDir="false" />
+    <list default="true" id="c60183b0-6d77-484f-9e7c-4b4e895537b5" name="变更" comment="HJ3">
+      <change afterPath="$PROJECT_DIR$/HJ4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HJ2.java" beforeDir="false" afterPath="$PROJECT_DIR$/HJ2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HJ3.java" beforeDir="false" afterPath="$PROJECT_DIR$/HJ3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="应用程序.HJ4">
     <configuration name="HJ2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HJ2" />
       <module name="nowcoder_huawei" />
@@ -55,8 +55,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HJ4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HJ4" />
+      <module name="nowcoder_huawei" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.HJ4" />
         <item itemvalue="应用程序.HJ2" />
       </list>
     </recent_temporary>
@@ -69,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687708313092</updated>
-      <workItem from="1687708314314" duration="3442000" />
+      <workItem from="1687708314314" duration="7081000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1687712315331</created>
@@ -78,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687712315331</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HJ3">
+      <created>1687713645308</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687713645308</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="HJ3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HJ3" />
   </component>
 </project>

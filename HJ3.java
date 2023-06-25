@@ -17,7 +17,6 @@ public class HJ3 {
             set.add(sc.nextInt());
         }
         // 输出结果
-        // System.out.println(set);
         Iterator itSet = set.iterator();
         while (itSet.hasNext()) {
             System.out.println(itSet.next());
