@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c60183b0-6d77-484f-9e7c-4b4e895537b5" name="变更" comment="HJ4">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="c60183b0-6d77-484f-9e7c-4b4e895537b5" name="变更" comment="结构更新">
+      <change afterPath="$PROJECT_DIR$/HJ1_10/HJ5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HJ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/HJ1_10/HJ1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HJ2.java" beforeDir="false" afterPath="$PROJECT_DIR$/HJ1_10/HJ2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HJ3.java" beforeDir="false" afterPath="$PROJECT_DIR$/HJ1_10/HJ3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HJ4.java" beforeDir="false" afterPath="$PROJECT_DIR$/HJ1_10/HJ4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +48,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.HJ4">
+  <component name="RunManager" selected="应用程序.HJ5">
     <configuration name="HJ2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HJ1_10.HJ2" />
       <module name="nowcoder_huawei" />
@@ -67,8 +63,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HJ5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HJ1_10.HJ5" />
+      <module name="nowcoder_huawei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HJ1_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.HJ5" />
         <item itemvalue="应用程序.HJ4" />
         <item itemvalue="应用程序.HJ2" />
       </list>
@@ -83,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1687708313092</updated>
       <workItem from="1687708314314" duration="7125000" />
-      <workItem from="1687767984093" duration="306000" />
+      <workItem from="1687767984093" duration="1680000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1687712315331</created>
@@ -106,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687717038429</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="结构更新">
+      <created>1687768426704</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687768426704</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +133,7 @@
     <MESSAGE value="1" />
     <MESSAGE value="HJ3" />
     <MESSAGE value="HJ4" />
-    <option name="LAST_COMMIT_MESSAGE" value="HJ4" />
+    <MESSAGE value="结构更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="结构更新" />
   </component>
 </project>
