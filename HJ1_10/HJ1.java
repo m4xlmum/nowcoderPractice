@@ -1,3 +1,5 @@
+package HJ1_10;
+
 import java.util.Scanner;
 
 // 字符串最后一个单词的长度

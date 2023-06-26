@@ -1,3 +1,5 @@
+package HJ1_10;
+
 import java.util.Scanner;
 
 // 字符串分隔

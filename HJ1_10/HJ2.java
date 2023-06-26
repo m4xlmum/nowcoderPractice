@@ -1,3 +1,5 @@
+package HJ1_10;
+
 import java.util.Scanner;
 
 // 计算某字符出现次数

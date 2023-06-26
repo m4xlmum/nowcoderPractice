@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c60183b0-6d77-484f-9e7c-4b4e895537b5" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HJ1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nowcoder_huawei.iml" afterDir="false" />
+    <list default="true" id="c60183b0-6d77-484f-9e7c-4b4e895537b5" name="变更" comment="HJ4">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HJ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/HJ1_10/HJ1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HJ2.java" beforeDir="false" afterPath="$PROJECT_DIR$/HJ1_10/HJ2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HJ3.java" beforeDir="false" afterPath="$PROJECT_DIR$/HJ1_10/HJ3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HJ4.java" beforeDir="false" afterPath="$PROJECT_DIR$/HJ1_10/HJ4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "16",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,6 +52,28 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="应用程序.HJ4">
+    <configuration name="HJ2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HJ1_10.HJ2" />
+      <module name="nowcoder_huawei" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HJ4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HJ1_10.HJ4" />
+      <module name="nowcoder_huawei" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.HJ4" />
+        <item itemvalue="应用程序.HJ2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -58,11 +82,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687708313092</updated>
-      <workItem from="1687708314314" duration="1274000" />
+      <workItem from="1687708314314" duration="7125000" />
+      <workItem from="1687767984093" duration="306000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1687712315331</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687712315331</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HJ3">
+      <created>1687713645308</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687713645308</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HJ4">
+      <created>1687717038429</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687717038429</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="HJ3" />
+    <MESSAGE value="HJ4" />
+    <option name="LAST_COMMIT_MESSAGE" value="HJ4" />
   </component>
 </project>

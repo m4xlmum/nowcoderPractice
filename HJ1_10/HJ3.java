@@ -1,3 +1,5 @@
+package HJ1_10;
+
 import java.util.Iterator;
 import java.util.Scanner;
 import java.util.TreeSet;

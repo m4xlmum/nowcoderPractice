@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HJ1-10/HJ1-10.iml" filepath="$PROJECT_DIR$/HJ1-10/HJ1-10.iml" />
       <module fileurl="file://$PROJECT_DIR$/nowcoder_huawei.iml" filepath="$PROJECT_DIR$/nowcoder_huawei.iml" />
     </modules>
   </component>
