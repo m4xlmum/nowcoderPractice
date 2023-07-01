@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c60183b0-6d77-484f-9e7c-4b4e895537b5" name="变更" comment="HJ4">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="c60183b0-6d77-484f-9e7c-4b4e895537b5" name="变更" comment="HJ10">
+      <change afterPath="$PROJECT_DIR$/HJ11_20/HJ11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HJ11_20/HJ12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HJ11_20/HJ13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HJ11_20/HJ14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HJ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/HJ1_10/HJ1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HJ2.java" beforeDir="false" afterPath="$PROJECT_DIR$/HJ1_10/HJ2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HJ3.java" beforeDir="false" afterPath="$PROJECT_DIR$/HJ1_10/HJ3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HJ4.java" beforeDir="false" afterPath="$PROJECT_DIR$/HJ1_10/HJ4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,39 +37,94 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "16",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;16&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="应用程序.HJ4">
-    <configuration name="HJ2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HJ1_10.HJ2" />
+}</component>
+  <component name="RunManager" selected="应用程序.HJ14">
+    <configuration name="HJ10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HJ1_10.HJ10" />
       <module name="nowcoder_huawei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HJ1_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HJ4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HJ1_10.HJ4" />
+    <configuration name="HJ11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HJ11_20.HJ11" />
       <module name="nowcoder_huawei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HJ11_20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HJ12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HJ11_20.HJ12" />
+      <module name="nowcoder_huawei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HJ11_20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HJ13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HJ11_20.HJ13" />
+      <module name="nowcoder_huawei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HJ11_20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HJ14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HJ11_20.HJ14" />
+      <module name="nowcoder_huawei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HJ11_20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.HJ4" />
-        <item itemvalue="应用程序.HJ2" />
+        <item itemvalue="应用程序.HJ14" />
+        <item itemvalue="应用程序.HJ13" />
+        <item itemvalue="应用程序.HJ12" />
+        <item itemvalue="应用程序.HJ11" />
+        <item itemvalue="应用程序.HJ10" />
       </list>
     </recent_temporary>
   </component>
@@ -83,7 +137,9 @@
       <option name="presentableId" value="Default" />
       <updated>1687708313092</updated>
       <workItem from="1687708314314" duration="7125000" />
-      <workItem from="1687767984093" duration="306000" />
+      <workItem from="1687767984093" duration="18222000" />
+      <workItem from="1688116292170" duration="606000" />
+      <workItem from="1688170820929" duration="1184000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1687712315331</created>
@@ -106,7 +162,56 @@
       <option name="project" value="LOCAL" />
       <updated>1687717038429</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="结构更新">
+      <created>1687768426704</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687768426704</updated>
+    </task>
+    <task id="LOCAL-00005" summary="HJ5">
+      <created>1687769690037</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687769690037</updated>
+    </task>
+    <task id="LOCAL-00006" summary="HJ6">
+      <created>1687788646567</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687788646567</updated>
+    </task>
+    <task id="LOCAL-00007" summary="HJ7">
+      <created>1687790006208</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687790006208</updated>
+    </task>
+    <task id="LOCAL-00008" summary="HJ8">
+      <created>1687793673807</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687793673807</updated>
+    </task>
+    <task id="LOCAL-00009" summary="HJ9">
+      <created>1687796599716</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1687796599716</updated>
+    </task>
+    <task id="LOCAL-00010" summary="HJ10">
+      <created>1687797178860</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1687797178860</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +221,13 @@
     <MESSAGE value="1" />
     <MESSAGE value="HJ3" />
     <MESSAGE value="HJ4" />
-    <option name="LAST_COMMIT_MESSAGE" value="HJ4" />
+    <MESSAGE value="结构更新" />
+    <MESSAGE value="HJ5" />
+    <MESSAGE value="HJ6" />
+    <MESSAGE value="HJ7" />
+    <MESSAGE value="HJ8" />
+    <MESSAGE value="HJ9" />
+    <MESSAGE value="HJ10" />
+    <option name="LAST_COMMIT_MESSAGE" value="HJ10" />
   </component>
 </project>
